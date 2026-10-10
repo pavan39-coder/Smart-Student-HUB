@@ -1,0 +1,14 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+client/build/
+.vercel/
+.env
+.env.*
+!**/.env.example
+server/.deployment-secrets.json
+client/.env
+server/.env
+*.log
+.vercel
+.env*
